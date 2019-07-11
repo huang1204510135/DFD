@@ -24,9 +24,8 @@ In order to obtain relatively complete top-view angles, we setup a video acquisi
 
 ## Data Download
 
- BaiduDrive Download：https://pan.baidu.com/s/1IayRjNr65sorQnECHBfoVg 
+ BaiduDrive Download：https://pan.baidu.com/s/1IayRjNr65sorQnECHBfoVg Extraction Code：3ouw
 
-**Request the password from huangbaojin@whu.edu.cn (academic only).**
 
 
 ## Data Statistics
