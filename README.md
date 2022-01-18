@@ -36,4 +36,21 @@ Total number of identities: 927
 
 We have experimented with datasets on faster R-CNN, YOLOv3, and MTCNN. For ease of experimentation, our annotations are consistent with the Wider Face format.
 
+## Citation
+
+If you find TFD useful in your research, please consider to cite the following paper:
+
+```
+@inproceedings{wang2021tilt,
+  title={A Tilt-Angle Face Dataset And Its Validation},
+  author={Wang, Nanxi and Wang, Zhongyuan and He, Zheng and Huang, Baojin and Zhou, Liguo and Han, Zhen},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+  pages={894--898},
+  year={2021},
+  organization={IEEE}
+}
+```
+
 ## Contact
+
+huangbaojin@whu.edu.cn
