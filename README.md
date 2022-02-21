@@ -26,11 +26,11 @@ In order to obtain relatively complete top-view angles, we setup a video acquisi
 
 
 
-## Data Statistics
+## Data Statistics (Continually updated)
 
-Total number of images: 5,562
+Total number of images: 5,562 + 2,832
 
-Total number of identities: 927
+Total number of identities: 927 + 472
 
 ## Notation
 
